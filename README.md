@@ -14,3 +14,7 @@ The library management system is software that is designed to manage all functio
 ## Project Management Tool 
 
 JIRA - https://spmlab3.atlassian.net/jira/software/projects/LMS/pages
+
+## Project setup tool
+
+ScaffoldHub - https://scaffoldhub.io/
