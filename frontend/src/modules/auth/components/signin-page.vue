@@ -43,11 +43,11 @@
             >
               <el-checkbox v-model="model[fields.rememberMe.name]">{{ fields.rememberMe.label }}</el-checkbox>
 
-              <router-link :to="{ path: '/auth/forgot-password' }">
+              <!-- <router-link :to="{ path: '/auth/forgot-password' }">
                 <el-button type="text">
                   <app-i18n code="auth.forgotPassword"></app-i18n>
                 </el-button>
-              </router-link>
+              </router-link> -->
             </div>
           </div>
 
@@ -65,7 +65,7 @@
             </router-link>
           </div>
 
-          <app-i18n-flags></app-i18n-flags>
+          <!-- <app-i18n-flags></app-i18n-flags> -->
         </el-form>
       </div>
     </div>
